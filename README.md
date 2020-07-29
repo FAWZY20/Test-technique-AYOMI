@@ -8,7 +8,9 @@ Travaille Réalisée :
 
 - importation du template .
 
-- Réalisation de connexion à la bdd .- Réalisation du formulaire d'inscription&la connexion à la bdd avec les fonctions.
+- Réalisation de connexion à la bdd .
+
+- Réalisation du formulaire d'inscription&la connexion à la bdd avec les fonctions.
 
 - Réalisation du formulaire de connexion&la connexion à la bdd avec les fonctions.
 
