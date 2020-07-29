@@ -24,7 +24,7 @@ Travaille manquant :
 
 difficulté rencontrer :
 
-- Apprentissage d'un framework dans un lapse de temps, mais aussi de support comme pgadmim ou postgres et de la méthode MVT.
+- Apprentissage d'un framework en un lapse de temps, mais aussi de support comme pgadmim ou postgres et de la méthode MVT.
 
 - Probleme rencontrai lors de la connéxion à la bdd probleme de admin résolue .
 
